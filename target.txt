@@ -1,2 +1,1 @@
 git,github,xiugaiwenjian,xianxiashouweiqiang
-git,github,xiugaiwenjian,houxianshouzaoyan
